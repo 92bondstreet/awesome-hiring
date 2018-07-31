@@ -2,7 +2,7 @@
 
 > A curated list of hiring (engineers) process path
 
-![Photo by @mikeenerio](https://source.unsplash.com/H58bnmnedTc/800x600)
+![Photo by @rawpixel](https://source.unsplash.com/3BK_DyRVf90/800x600)
 
 ## Companies
 
